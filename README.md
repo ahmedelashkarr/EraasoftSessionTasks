@@ -1,5 +1,7 @@
-# Eraasoft Session Tasks
+# 📚 Eraasoft Session Tasks
 
-This repository contains solutions for Eraasoft training session tasks.  
-Each session has a dedicated function named following the pattern `SessionOneTask`, `SessionTwoTask`, etc.  
-Inside each function, you'll find the solutions for that specific session's tasks.
+🛠️ This project contains solutions for **Eraasoft** training session tasks.
+
+🚀 In the `main` function:
+- Each session has its own dedicated function, like `SessionOneTask`, `SessionTwoTask`, etc.
+- 📂 Inside each session function, you’ll find the solutions for that session.
