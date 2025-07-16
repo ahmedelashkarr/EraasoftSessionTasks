@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        SessionOneTask();
+    }
+    // *** Session One Assignment ***
+    static void SessionOneTask(){
         Scanner inp = new Scanner(System.in);
         //A
         /*
@@ -72,4 +76,5 @@ public class Main {
         /*String string = inp.next();
         System.out.println(string.hashCode() > 64 && string.hashCode() < 91 ? string.toLowerCase() : string.toUpperCase());*/
     }
+
 }
